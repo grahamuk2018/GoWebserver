@@ -1,7 +1,7 @@
 package router
 
 import (
-	"GoWebserver/services"
+	"github.com/grahamuk2018/GoWebserver/services"
 
 	"github.com/gorilla/mux"
 )

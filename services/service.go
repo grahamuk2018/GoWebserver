@@ -1,11 +1,12 @@
 package services
 
 import (
-	"GoWebserver/models"
 	"database/sql"
 	"encoding/json"
 	"log"
 	"net/http"
+
+	"github.com/grahamuk2018/GoWebserver/models"
 
 	"github.com/jmoiron/sqlx"
 )

@@ -1,11 +1,13 @@
 package main
 
 import (
-	"GoWebserver/router"
-	"GoWebserver/services"
-	"GoWebserver/utils"
 	"log"
 	"net/http"
+
+	"github.com/grahamuk2018/GoWebserver/services"
+	"github.com/grahamuk2018/GoWebserver/utils"
+
+	"github.com/grahamuk2018/GoWebserver/router"
 )
 
 func main() {

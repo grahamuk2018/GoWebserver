@@ -1,4 +1,4 @@
-module github.com/grahamuk2018
+module github.com/grahamuk2018/GoWebserver
 
 go 1.21.4
 
